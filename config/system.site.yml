@@ -1,0 +1,14 @@
+uuid: 47491ae6-2d92-446c-a011-302541cb61b8
+name: 'DP Pokemon'
+mail: deimaredilsonherrera@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
